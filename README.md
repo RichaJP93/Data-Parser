@@ -14,7 +14,7 @@ For example if the directory to be processed is in the root directory of the pro
 node ./src/parse.js 20131004
 ```
 
-Will output CSV files in the same /src directory as the script, with unique file names for each file in the directory
+This will output CSV files in the same /src directory as the script, with unique file names for each file in the directory
 
 **E.g**
 
